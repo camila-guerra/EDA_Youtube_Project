@@ -47,3 +47,81 @@ I've always trusted statistics and data. For some reason, my brain gets captivat
 
 💡🧠 I enjoy looking for hidden connections and understanding the “why” behind what we see. I'm very curious about people's behavior, as well as how statistics are collected and measured.
 
+---
+
+### 🌐 Project Scope & Context
+
+📅 **Analyzed Dates:**
+
+* From **March 11 to April 8, 2025**
+
+📍 **Frequency:** 
+
+* Once a week
+
+🌎 **Regions:** 
+
+Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Uruguay, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Venezuela, Canada, United States.
+
+> ⚠️ **Disclaimer:**
+> *I know a longer period would allow for stronger conclusions, but for practical purposes, this range helps identify clear initial patterns.*
+
+---
+
+### 📈 What exactly did I do?
+
+✅ **Analysis with Python:**  
+- I used `Pandas`, `Seaborn`, and `Matplotlib` to analyze trending YouTube videos 📊  
+- Worked with data from several countries: 🇦🇷 🇲🇽 🇺🇸 🇨🇦 🇩🇪 🇬🇧 🇮🇳
+
+✅ **Data Cleaning:**  
+- Checked and handled null and empty values 🚫  
+- Converted columns like `tags` and `publish_time` into proper formats 🔄  
+- Filtered out invalid categories and consolidated the dataset 🧹
+
+✅ **Processing and Visualizations:**  
+- Mapped categories by `category_id`  
+- Grouped by country and category to compare trends 🌍  
+- Analyzed key metrics like:  
+  - **Views** 👀  
+  - **Likes** ❤️  
+  - **Comments** 💬  
+  - **Duration** ⏱️  
+  - **Number of Tags** 🏷️  
+  - **Publishing Time** ⏰  
+
+✅ **Key Findings:**  
+- Some categories dominate depending on the country 🏆  
+- More duration or tags ≠ more views ❌  
+- Publishing time varies in impact depending on the region 🕒
+
+### Want to know the rest? Stick around and see if you can spot them!
+
+> 📑👇 A PDF with more detailed conclusions is available at the end.
+
+---
+
+### 🧩 Variables from the YouTube API
+
+  - 🎥 **video_id**: Unique video identifier.  
+  - 📝 **title**: Video title.  
+  - 📖 **description**: Video description.  
+  - 📅 **published_at**: Date and time the video was published.  
+  - 👤 **channel_id**: Unique identifier of the channel that uploaded the video.  
+  - 📺 **channel_title**: Name of the channel.  
+  - 🗂️ **category_id**: ID of the category the video belongs to.  
+  - 🏷️ **tags**: Tags associated with the video.  
+  - ⏱️ **duration**: Video duration in ISO 8601 format.  
+  - 🖥️ **definition**: Video definition quality.  
+  - 🔤 **caption**: Indicates whether the video has subtitles.  
+  - 👀 **view_count**: Number of views.  
+  - 👍 **like_count**: Number of likes.  
+  - 💬 **comment_count**: Number of comments.  
+  - 🧒 **made_for_kids**: Indicates if the video is marked as kid-friendly.
+
+> 📘 **More info:**  
+Check out the [official YouTube API documentation](https://developers.google.com/youtube/v3/docs/videos?hl=en) for technical details.
+
+---
+---
+
