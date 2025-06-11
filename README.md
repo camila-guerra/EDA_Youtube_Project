@@ -1,6 +1,15 @@
 # EDA_Youtube_Project
 
-Exploratory Data Analysis of trending YouTube videos across multiple countries using Python. Includes data cleaning, transformation, and visualizations with Pandas, Seaborn, and Matplotlib.
+## 📚 Table of Contents
+
+- [🧾 Quick Summary](#-quick-summary)
+- [🎯 Project Objective](#-project-objective)
+- [📊 Who is this analysis for?](#-who-is-this-analysis-for)
+- [🔍 My Personal Motivation](#-my-personal-motivation)
+- [🌐 Project Scope & Context](#-project-scope--context)
+- [📈 What exactly did I do?](#-what-exactly-did-i-do)
+- [🧩 Variables from the YouTube API](#-variables-from-the-youtube-api)
+
 
 ### 🧾 Quick Summary:
 
