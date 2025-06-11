@@ -15,8 +15,6 @@ Exploratory Data Analysis of trending YouTube videos across multiple countries u
 
 ### 🎯 Project Objective
 
-💡 **Why this project?**  
-
 I've always been fascinated by what can be discovered through large volumes of data.  
 The **YouTube API** offers a goldmine of information ready to explore: trends, audience behavior, video impact... all in real time!
 
@@ -45,7 +43,7 @@ This data is also super useful for:
 
 🎨 **I love “Trivia facts”!**
 
-I've always trusted statistics and data. For some reason, my brain gets captivated by patterns and constantly wants to find them
+I've always trusted statistics and data. For some reason, my brain gets captivated by patterns and constantly wants to find them.
 
 💡🧠 I enjoy looking for hidden connections and understanding the “why” behind what we see. I'm very curious about people's behavior, as well as how statistics are collected and measured.
 
