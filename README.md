@@ -39,12 +39,12 @@ It’s a mix of curiosity + hands-on learning 🧠📊
 
 ### 📊 Who is this analysis for?
 
-Even if you think this is just for YouTubers...  🚫 Wrong!  
+Even if you think this is just for YouTubers...  🚫 Wrong!
 
 This data is also super useful for:
 - 📈 **Companies and brands** wanting to advertise on YouTube  
 - 🧠 **Market analysts** interested in consumer behavior patterns  
-- 🧑‍💻 Curious people who want to understand what content hits hardest and why  
+- 🧑‍💻 **Curious people like me** who want to understand what content hits hardest and why  
 
 ---
 
@@ -130,6 +130,7 @@ Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecu
 
 > 📘 **More info:**  
 Check out the [official YouTube API documentation](https://developers.google.com/youtube/v3/docs/videos?hl=en) for technical details.
+
 
 ---
 ---
