@@ -10,6 +10,7 @@
 - [📈 What exactly did I do?](#-what-exactly-did-i-do)
 - [🧩 Variables from the YouTube API](#-variables-from-the-youtube-api)
 
+---
 
 ### 🧾 Quick Summary:
 
