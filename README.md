@@ -1,4 +1,4 @@
-# EDA_Youtube_Project
+# EDA Youtube Project
 
 ## 📚 Table of Contents
 
